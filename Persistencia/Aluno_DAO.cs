@@ -1,4 +1,4 @@
-﻿//
+﻿/
 // <copyright file="Aluno_TO.cs" company="Valeverde Turismo">
 //     Copyright (c) Valeverde Turismo 2017. All rights reserved.
 // </copyright>
@@ -20,7 +20,6 @@ namespace Persistencia
             SqlConnection connection = null;
             try
             {
-
                 connection = new SqlConnection(ConfigurationSettings.AppSettings["conn_bdvveasycomp"]);
                 connection.Open();
             }
