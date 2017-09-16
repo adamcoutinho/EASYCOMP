@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistencia", "Persistencia\Persistencia.csproj", "{5BB2B4DF-8A23-43C5-AC52-16D3C1E117A9}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "IUWebEasycomp", "IUWebEasycomp\", "{A0EE7E9E-6DF5-49C6-9C22-CD04AE5F5DC6}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{5BB2B4DF-8A23-43C5-AC52-16D3C1E117A9}|Persistencia.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/IUWebEasycomp"
+		Debug.AspNetCompiler.PhysicalPath = "IUWebEasycomp\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\IUWebEasycomp\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/IUWebEasycomp"
+		Release.AspNetCompiler.PhysicalPath = "IUWebEasycomp\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\IUWebEasycomp\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "36153"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BB2B4DF-8A23-43C5-AC52-16D3C1E117A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BB2B4DF-8A23-43C5-AC52-16D3C1E117A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BB2B4DF-8A23-43C5-AC52-16D3C1E117A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BB2B4DF-8A23-43C5-AC52-16D3C1E117A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0EE7E9E-6DF5-49C6-9C22-CD04AE5F5DC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0EE7E9E-6DF5-49C6-9C22-CD04AE5F5DC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0EE7E9E-6DF5-49C6-9C22-CD04AE5F5DC6}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0EE7E9E-6DF5-49C6-9C22-CD04AE5F5DC6}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

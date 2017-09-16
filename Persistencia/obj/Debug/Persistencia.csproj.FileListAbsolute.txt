@@ -1,0 +1,5 @@
+c:\users\wilson\documents\visual studio 2010\Projects\Easycomp\Persistencia\bin\Debug\Persistencia.dll
+c:\users\wilson\documents\visual studio 2010\Projects\Easycomp\Persistencia\bin\Debug\Persistencia.pdb
+c:\users\wilson\documents\visual studio 2010\Projects\Easycomp\Persistencia\obj\Debug\Persistencia.dll
+c:\users\wilson\documents\visual studio 2010\Projects\Easycomp\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\wilson\documents\visual studio 2010\Projects\Easycomp\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache

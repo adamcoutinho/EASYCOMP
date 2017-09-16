@@ -1,0 +1,7 @@
+c:\users\wilson\documents\visual studio 2010\Projects\Easycomp\View\bin\View.dll
+c:\users\wilson\documents\visual studio 2010\Projects\Easycomp\View\bin\View.pdb
+c:\users\wilson\documents\visual studio 2010\Projects\Easycomp\View\obj\Debug\View.dll
+c:\users\wilson\documents\visual studio 2010\Projects\Easycomp\View\obj\Debug\View.pdb
+c:\users\wilson\documents\visual studio 2010\Projects\Easycomp\View\bin\Persistencia.dll
+c:\users\wilson\documents\visual studio 2010\Projects\Easycomp\View\bin\Persistencia.pdb
+c:\users\wilson\documents\visual studio 2010\Projects\Easycomp\View\obj\Debug\View.csprojResolveAssemblyReference.cache
