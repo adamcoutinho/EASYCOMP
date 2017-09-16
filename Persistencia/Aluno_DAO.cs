@@ -20,6 +20,7 @@ namespace Persistencia
             SqlConnection connection = null;
             try
             {
+
                 connection = new SqlConnection(ConfigurationSettings.AppSettings["conn_bdvveasycomp"]);
                 connection.Open();
             }
